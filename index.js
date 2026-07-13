@@ -39,7 +39,7 @@ const AUDIO_FILE = path.resolve(
  * 0.25 = yüzde 25
  * Kayıt sırasında konuşmaları bastırmaması için düşük tutuldu.
  */
-const AUDIO_VOLUME = 0.1;
+const AUDIO_VOLUME = 0.04;
 
 const BOT_CONFIGS = [
     {
